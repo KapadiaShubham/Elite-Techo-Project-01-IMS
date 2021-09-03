@@ -1,5 +1,6 @@
 # Inventory Management System
-**Version 1.0.0**\n
+**Version 1.0.0**
+
 This is the submission to my first project (Inventory Management System) as an ML/AI intern at Elite Techno Groups.
 
 ## Description
