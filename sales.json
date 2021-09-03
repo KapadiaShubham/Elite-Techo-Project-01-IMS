@@ -6,5 +6,13 @@
         "Total Amount Paid after discount": 687.16,
         "Profit Earned": 26,
         "Time": "09/03/2021, 17:13:06"
+    },
+    "151720": {
+        "Customer": "shubham",
+        "Purchased Item": "Green beans",
+        "Quantity": 2,
+        "Total Amount Paid after discount": 167.56,
+        "Profit Earned": 40,
+        "Time": "09/03/2021, 18:17:54"
     }
 }

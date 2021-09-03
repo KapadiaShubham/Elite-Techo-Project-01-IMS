@@ -5,9 +5,19 @@
         "description": "Cooked legums on the wooden table",
         "price": 838,
         "rating": 0,
-        "quantity": 38,
+        "quantity": 39,
         "discount": 18,
         "profit": 26
+    },
+    "306003": {
+        "name": "Fresh tomato",
+        "category": "vegetable",
+        "description": "Fresh tomato juice with basil",
+        "price": 945,
+        "rating": 2,
+        "quantity": 117,
+        "discount": 11,
+        "profit": 59
     },
     "306005": {
         "name": "Green beans",
@@ -15,7 +25,7 @@
         "description": "Raw organic green beans ready to eat",
         "price": 142,
         "rating": 1,
-        "quantity": 25,
+        "quantity": 23,
         "discount": 41,
         "profit": 20
     },
@@ -59,15 +69,25 @@
         "discount": 31,
         "profit": 57
     },
-    "306060": {
+    "30603060": {
         "name": "Caprese salad",
         "category": "vegetable",
         "description": "Homemade healthy caprese salad with tomato mozzarella and basil",
         "price": 141,
         "rating": 5,
-        "quantity": 169,
+        "quantity": 171,
         "discount": 44,
         "profit": 72
+    },
+    "306021": {
+        "name": "Oranges",
+        "category": "fruit",
+        "description": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
+        "price": 246,
+        "rating": 4,
+        "quantity": 59,
+        "discount": 48,
+        "profit": 80
     },
     "306022": {
         "name": "Vegan food",
