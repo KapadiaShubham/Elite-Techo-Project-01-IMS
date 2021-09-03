@@ -3,7 +3,7 @@
 This is the submission to my first project (Inventory Management System) as an ML/AI intern at Elite Techno Groups.
 
 ## Description
-- The code is written in Jupyter Notebook(.ipynb)
+- The code is written in Jupyter Notebook "IMS Project-01.ipynb" file
 - The 2 more files namely: 
     1) inventory.json - contains the data of 30 products with attributes {name, category, description, price, rating, quantity, discount, profit} & each having a unique ID
     2) sales.json - stores all the sales data recorded so far. Each individual data has its specific transaction_ID and attributes like {Customer(name), Purchased Item, Quantity, Total Amount Paid after discount, Profit Earned, Time(date and time of purchase)}
